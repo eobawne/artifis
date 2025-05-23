@@ -1,0 +1,23 @@
+{
+  "shape": "line",
+  "parameters": [
+    {
+      "name": "length",
+      "type": "float32",
+      "min": 5,
+      "max": 100
+    },
+    {
+      "name": "angle",
+      "type": "float32",
+      "min": 0,
+      "max": 360
+    },
+    {
+      "name": "stroke_width",
+      "type": "float32",
+      "min": 1,
+      "max": 10
+    }
+  ]
+}

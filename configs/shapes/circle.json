@@ -1,0 +1,11 @@
+{
+  "shape": "circle",
+  "parameters": [
+    {
+      "name": "radius",
+      "type": "float32",
+      "min": 1,
+      "max": 40
+    }
+  ]
+}

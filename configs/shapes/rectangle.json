@@ -1,0 +1,17 @@
+{
+  "shape": "rectangle",
+  "parameters": [
+    {
+      "name": "width",
+      "type": "float32",
+      "min": 5,
+      "max": 80
+    },
+    {
+      "name": "height",
+      "type": "float32",
+      "min": 5,
+      "max": 80
+    }
+  ]
+}

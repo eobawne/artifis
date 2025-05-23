@@ -1,0 +1,11 @@
+{
+  "type": "circle",
+  "parameters": [
+    {
+      "name": "padding",
+      "type": "int32",
+      "min": 0,
+      "initial": 10
+    }
+  ]
+}

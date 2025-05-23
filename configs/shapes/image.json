@@ -1,0 +1,9 @@
+{
+  "shape": "image",
+  "parameters": [
+    {
+      "name": "image_path",
+      "type": "str"
+    }
+  ]
+}

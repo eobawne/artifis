@@ -1,0 +1,23 @@
+{
+  "shape": "triangle",
+  "parameters": [
+    {
+      "name": "side_a",
+      "type": "float32",
+      "min": 5,
+      "max": 80
+    },
+    {
+      "name": "side_b",
+      "type": "float32",
+      "min": 5,
+      "max": 80
+    },
+    {
+      "name": "side_c",
+      "type": "float32",
+      "min": 5,
+      "max": 80
+    }
+  ]
+}
